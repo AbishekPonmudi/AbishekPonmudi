@@ -128,10 +128,10 @@
 
         <h2>Let's Connect!</h2>
         <div class="contact-info">
-            <a href="https://abishekponmudi.github.io/Abishek.site">Website</a>
-            <a href="mailto:shekabi827@gmail.com">Email</a>
-            <a href="https://x.com/Havox03?t=Id_XRB7diePFZNEvTBJomA&s=09">Twitter</a>
-            <a href="https://www.linkedin.com/Abishekponmudi">LinkedIn</a>
+            <a href="https://www.havox.com">Website</a>
+            <a href="mailto:contact@havox.com">Email</a>
+            <a href="https://twitter.com/HavoxSecurity">Twitter</a>
+            <a href="https://www.linkedin.com/in/havox">LinkedIn</a>
         </div>
 
         <div class="social-icons">
