@@ -1,4 +1,4 @@
-# Hello guys welcome to my page🚀
+# Hello 🚀
 
 ## About Me
 Hey there, I'm Havox! 👋 I'm passionate about cybersecurity and ethical hacking. My mission? To secure devices and networks, one line of code at a time! With a background in security analysis, I thrive on exploring vulnerabilities and crafting robust solutions.
