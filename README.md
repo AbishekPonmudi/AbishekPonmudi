@@ -15,7 +15,7 @@ Explore a collection of security tools, scripts, and resources designed to stren
 Dive into ethical hacking techniques and tutorials aimed at enhancing your understanding of cybersecurity principles.
 
 ### 💻 Device Security
-From IoT to smartphones, I’m dedicated to safeguarding all devices against cyber threats. Discover strategies, best practices, and tools to keep your digital life secure.
+I’m dedicated to safeguarding all devices against cyber threats. Discover strategies, best practices, and tools to keep your digital life secure.
 
 ---
 
@@ -40,18 +40,6 @@ From IoT to smartphones, I’m dedicated to safeguarding all devices against cyb
 ## ⭐️ Stay Updated
 If you find value in my work, don’t forget to hit the ⭐️ Star button to bookmark this repository and keep up with the latest cybersecurity innovations and insights!
 
----
-
-## 🔧 Ongoing Projects
-### 1. **Project A**
-- **Description**: Brief overview of what this project entails.
-- **Technologies Used**: List of technologies used.
-
-### 2. **Project B**
-- **Description**: Brief overview of this project.
-- **Technologies Used**: List of technologies used.
-
----
 
 ## 🤝 Contributions
 I welcome contributions and collaboration! If you have suggestions or want to collaborate, feel free to reach out via email or Twitter.
