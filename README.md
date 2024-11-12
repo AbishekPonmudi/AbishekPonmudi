@@ -74,7 +74,7 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response" target="_blank" rel="noreferrer">
-    <img src="  https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response/blob/main/screenshots/PlanqX%20EDR%20Logo.png?raw=true" alt="bash" width="40" height="40"/>
+    <img src="https://github.com/AbishekPonmudi/PlanqX_EDR-Endpoint-Detection-and-Response/blob/main/screenshots/PlanqX%20EDR%20Logo.png?raw=true" alt="bash" width="40" height="40"/>
   </a>
 </p>
 </div>
