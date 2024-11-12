@@ -8,11 +8,8 @@
 A dedicated cybersecurity person specialized in Pentesting, Networking and cloud security (AWS) ,bug bounty programs, and web Pentesting, I am an self taught, experience in this domain with various courses and certificates, I am passionate about exploring new area in cybersecurity and cloud security to learn about new security technique, cybersecurity related updates and emerging technologies.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekponmudi&label=Profile%20views&color=0e75b6&style=flat" alt="abishekponmudi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekponmudi&label=Profile%20views&color=0e75b6&style=flat" alt="Abishek" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Abishek" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/abishekponmudi/" target="blank"><img src="https://img.shields.io/twitter/follow/Abishek?logo=twitter&style=for-the-badge" alt="Abishek"  </p>
 
