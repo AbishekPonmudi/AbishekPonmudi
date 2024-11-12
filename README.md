@@ -50,7 +50,7 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.4gSpVk_I11FCa51rFhHB9QHaHa?rs=1&pid=ImgDetMain" alt="windows" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="windows" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://freepngimg.com/icon/download/social_media/3996-git.png" alt="burpsuite" width="40" height="40"/>
