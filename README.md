@@ -13,7 +13,7 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
 
 <p align="left"> <a href="https://www.linkedin.com/in/abishekponmudi/" target="blank"><img src="https://img.shields.io/twitter/follow/Abishek?logo=twitter&style=for-the-badge" alt="Abishek"  </p>
 
-- 🔭 Red Teamer, Pentester developer
+- 🔭 Red Teamer, Pentester, developer
 
 - 🌱 I’m currently learning **Clouds**
 
