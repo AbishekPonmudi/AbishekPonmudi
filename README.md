@@ -83,7 +83,5 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbishekPonmudi&show_icons=true&locale=en&theme=tokyonight" alt="Abishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abishekponmudi&&theme=tokyonight" alt="Abishek" /></p>
-
 <p><img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=abishekponmudi&bg_color=9ee2ff&color=000000&line=4da3ff&point=000000&area=true&hide_border=false" alt="Abishek" /></p>
 
